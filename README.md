@@ -1,2 +1,2 @@
 # conference
-conference papers
+Professor Jianting Ning's Published Conference Papers
